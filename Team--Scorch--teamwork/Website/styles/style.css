@@ -1,0 +1,22 @@
+html {
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+}
+
+/* header */
+header {
+    background-color: blue;
+    height: 200px;
+}
+
+/* main */
+main {
+    background-color: red;
+    height: 500px;
+}
+
+/* footer */
+footer {
+    background-color: brown;
+    height: 200px;
+}

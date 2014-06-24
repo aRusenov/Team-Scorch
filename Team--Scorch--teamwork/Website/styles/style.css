@@ -5,8 +5,105 @@ html {
 
 /* header */
 header {
-    background-color: blue;
+    background-color: #101010;
+    border: solid 2px gray;
+    border-radius: 15px;
+    font-weight: bold;
     height: 200px;
+    margin: 0px 0px 50px 0px;
+}
+
+#logo {
+    text-align: center;
+    height: 100px;
+    color: white;
+}
+
+nav {
+    vertical-align: bottom;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    cursor: pointer;
+    padding: 0;
+    background: #353638; /* Old browsers */
+    background: -moz-linear-gradient(top, #353638 0%, #353638 51%, #101010 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#353638), color-stop(51%,#353638), color-stop(100%,#101010)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #353638 0%,#353638 51%,#101010 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#353638', endColorstr='#101010',GradientType=0 ); /* IE6-9 */
+}
+
+nav ul#main > li {
+    display: inline-block;
+    padding: 10px;
+    border-right: solid 1px gray;
+}
+
+nav ul#main > li:last-of-type {
+    border-right: none;
+}
+
+li.drop:after {
+    content: '▶';
+    color: white;
+    font-size: 0.97em;
+}
+
+li.drop:hover:after {
+    content: '\25bc';
+    color: white;
+    font-size: 0.9em;
+}
+
+nav li ul {
+    float: left;
+    visibility: hidden;
+    background-color: darkred;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    opacity: 0;
+    position: absolute;
+    margin-top: 12px;
+    border: solid 1px black;
+
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+nav ul li:hover > ul {
+    -webkit-transition: height 0.3s ease;
+    -moz-transition: height 0.3;
+    -ms-transition: height 0.3;
+    -o-transition: height 0.3;
+    transition: height 0.3;
+    opacity: 1;
+    visibility: visible;
+}
+
+nav ul ul li {
+    text-align: left;
+    background-color: #353638;
+    border-bottom: solid 1px #000000;
+    padding: 5px;
+    width: 200px;
+
+}
+
+nav ul li ul li:last-of-type {
+    border-bottom: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
 }
 
 /* main */

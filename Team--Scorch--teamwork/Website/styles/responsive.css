@@ -1,0 +1,28 @@
+aside {
+    display: none;
+}
+
+main {
+    width: 90%;
+}
+
+@media screen and (max-width: 670px) {
+
+    nav ul li {
+        width: 25%;
+        float: none;
+    }
+
+    nav ul li{
+        border-right: solid 1px gray;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    nav ul li {
+        width: 33%;
+        float: none;
+    }
+
+}

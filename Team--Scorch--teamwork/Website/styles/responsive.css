@@ -6,23 +6,30 @@ main {
     width: 90%;
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 780px) {
 
     nav ul li {
+        font-size: 0.8rem;
         width: 25%;
         float: none;
     }
-
-    nav ul li{
-        border-right: solid 1px gray;
-    }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
     nav ul li {
+        font-size: 0.95rem;
         width: 33%;
         float: none;
+        text-align: left;
     }
 
+    nav > ul  li  a {
+        padding: 0 5px 0 5px !important;
+        float: left;
+    }
+
+    nav li ul li a {
+        width: 150px;
+    }
 }

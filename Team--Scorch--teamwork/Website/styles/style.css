@@ -6,13 +6,12 @@ html {
 
 body {
     margin: 0;
+     background-image: url("../res/Site_pattern.png");
+    background-repeat: repeat;
 }
 
 /* header */
 header {
-    background-color: #759727;
-    background-image: url("../res/pat.png");
-    background-repeat: repeat;
     margin: 0;
 }
 
@@ -21,7 +20,7 @@ div#container {
 }
 
 #logo {
-    text-align: center;
+    text-align:center;
     height: 100px;
     color: white;
     width: 600px;
@@ -31,7 +30,6 @@ div#container {
 #borderline {
     height: 35px;
     margin-top: 0;
-    background-color: rgba(112, 156, 35, 1);
 }
 
 nav {
@@ -43,7 +41,7 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    background-color: #171715;
+    background-color: #d329b5;
     /*background: url("../res/wood2.JPG");*/
     /*background-repeat: repeat-x;*/
     /*background: #ba8b7a; *//* Old browsers */

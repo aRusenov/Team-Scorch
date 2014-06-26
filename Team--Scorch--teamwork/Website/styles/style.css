@@ -6,13 +6,12 @@ html {
 
 body {
     margin: 0;
+     background-image: url("../res/Site_pattern.png");
+    background-repeat: repeat;
 }
 
 /* header */
 header {
-    background-color: #759727;
-    background-image: url("../res/pat.png");
-    background-repeat: repeat;
     margin: 0;
 }
 
@@ -21,7 +20,7 @@ div#container {
 }
 
 #logo {
-    text-align: center;
+    text-align:center;
     height: 100px;
     color: white;
     width: 600px;
@@ -31,7 +30,6 @@ div#container {
 #borderline {
     height: 35px;
     margin-top: 0;
-    background-color: rgba(112, 156, 35, 1);
 }
 
 nav {
@@ -43,17 +41,7 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    background-color: #171715;
-    /*background: url("../res/wood2.JPG");*/
-    /*background-repeat: repeat-x;*/
-    /*background: #ba8b7a; *//* Old browsers */
-    /*background: -moz-linear-gradient(top, #ba8b7a 0%, #bf6e4e 19%, #bc3d0f 51%, #bf6e4e 86%, #bc5b38 100%); *//* FF3.6+ */
-    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ba8b7a), color-stop(19%,#bf6e4e), color-stop(51%,#bc3d0f), color-stop(86%,#bf6e4e), color-stop(100%,#bc5b38)); *//* Chrome,Safari4+ */
-    /*background: -webkit-linear-gradient(top, #ba8b7a 0%,#bf6e4e 19%,#bc3d0f 51%,#bf6e4e 86%,#bc5b38 100%); *//* Chrome10+,Safari5.1+ */
-    /*background: -o-linear-gradient(top, #ba8b7a 0%,#bf6e4e 19%,#bc3d0f 51%,#bf6e4e 86%,#bc5b38 100%); *//* Opera 11.10+ */
-    /*background: -ms-linear-gradient(top, #ba8b7a 0%,#bf6e4e 19%,#bc3d0f 51%,#bf6e4e 86%,#bc5b38 100%); *//* IE10+ */
-    /*background: linear-gradient(to bottom, #ba8b7a 0%,#bf6e4e 19%,#bc3d0f 51%,#bf6e4e 86%,#bc5b38 100%); *//* W3C */
-    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba8b7a', endColorstr='#bc5b38',GradientType=0 ); *//* IE6-9 */
+    background-color: #d329b5;
 }
 
 nav li {
@@ -64,6 +52,7 @@ nav li {
     padding: 0;
     margin: 0;
     text-align: left;
+    height: 50px;
 }
 
 nav ul#main > li:last-of-type {
@@ -71,15 +60,6 @@ nav ul#main > li:last-of-type {
 }
 
 a.drop:after {
-    content: '▶';
-    padding-right: 5px;
-    font-size: 0.97em;
-    width: 5px;
-    height: 5px;
-    display: inline-block;
-}
-
-a.drop:hover:after {
     content: ' \25bc';
     font-size: 0.85em;
 }
@@ -95,6 +75,7 @@ nav li ul {
     margin: 0;
     padding: 0;
     display: inline-block;
+    border: solid 1px black;
 }
 
 nav ul li:hover > ul {
@@ -111,8 +92,7 @@ nav li:hover > a {
     color: #fff;
 }
 
-nav ul ul li {
-    -webkit-transition: height 0.5s;
+nav li ul li {
     text-align: left;
     background-color: #353638;
     border-bottom: solid 1px black;
@@ -140,31 +120,6 @@ nav li ul a {
     font: 16px/50px sans-serif;
 }
 
-/*nav ul {*/
-    /*background: #353638;*/
-    /*background: -moz-linear-gradient(top, #353638 0%, #353638 51%, #101010 100%);*/
-    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#353638), color-stop(51%,#353638), color-stop(100%,#101010));*/
-    /*background: -webkit-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%);*/
-    /*background: -o-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%);*/
-    /*background: -ms-linear-gradient(top, #353638 0%,#353638 51%,#101010 100%);*/
-    /*background: linear-gradient(to bottom, #353638 0%,#353638 51%,#101010 100%);*/
-    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#353638', endColorstr='#101010',GradientType=0 );*/
-    /*list-style: none;*/
-    /*margin: 0;*/
-    /*padding: 0;*/
-/*}*/
-
-/*nav li {*/
-    /*margin: 0;*/
-    /*padding: 0;*/
-/*}*/
-
-/*nav a {*/
-    /*background-color: #dddddd;*/
-    /*display: block;*/
-    /*font: bold 16px/50px sans-serif;*/
-/*}*/
-
 nav a {
     text-decoration: none;
     color: #ffffff;
@@ -175,30 +130,30 @@ nav a {
 
 main  {
     display: inline-block;
-    width: 70%;
-    height: 500px;
+    width: 73%;
+    height: 700px;
     border: solid 1px black;
-    background-color: #353638;
-    margin: 1% 4% 3% 3%;
+    background-color: #759727;
+    margin: 5% 3% 3% 3%;
     border-top-left-radius: 25px;
     border-bottom-right-radius: 25px;
     padding: 10px;
 }
 
 aside {
-    background-color: #353638;
+    background-color: #759727;
     vertical-align: top;
     border-top-left-radius: 25px;
     display: inline-block;
     width: 15%;
     height: 200px;
     border: solid 1px black;
-    margin: 1% 2% 1% 0.5%;
+    margin: 5% 2% 1% 0.5%;
 }
 
 /* footer */
 footer {
-    background-color: #353638;
+    background-color: #759727;
     height: 150px;
     border-top: solid 1px black;
     margin: 0;

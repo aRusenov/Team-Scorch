@@ -24,12 +24,12 @@ main {
         text-align: left;
     }
 
-    nav > ul  li  a {
-        padding: 0 5px 0 5px !important;
+    nav > ul  li a  {
+        padding: 0 1px !important;
         float: left;
     }
 
     nav li ul li a {
-        width: 150px;
+        width: 130px;
     }
 }

@@ -1,17 +1,13 @@
-aside {
-    display: none;
-}
-
-main {
-    width: 90%;
-}
-
 @media screen and (max-width: 780px) {
 
     nav ul li {
         font-size: 0.8rem;
         width: 25%;
         float: none;
+    }
+
+    .profilePicture {
+        width: 90%px;
     }
 }
 
@@ -32,11 +28,43 @@ main {
     nav li ul li a {
         width: 150px;
     }
+
+    main .profilePicture {
+        width: 90%;
+    }
+
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 530px) {
+
+    main article figure {
+        float: none;
+    }
+
+    main .profilePicture {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 400px) {
 
     nav ul li {
         width: 50%;
+    }
+
+    nav ul li a {
+        text-align: center;
+        padding-right: 0 !important;
+    }
+
+    main .profilePicture {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 330px) {
+
+    main .profilePicture {
+        width: 95%;
     }
 }

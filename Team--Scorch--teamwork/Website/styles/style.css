@@ -213,3 +213,28 @@ div.contact {
     font-size: 1.1rem;
     margin: 5px 8px;
 }
+
+footer {
+    width:86%;
+    height:13em;
+    background-color:black;
+    margin-left:7%;
+    margin-right:7%;
+    margin-bottom:3%;
+}
+
+    footer ul {
+        padding-top:0.5em;
+    }
+        footer ul li{
+            line-height:2em;
+            list-style-type:square;
+            color: #C4C4C4;
+        
+        }
+
+            footer ul li a {
+                text-decoration: none;
+                color: #C4C4C4;
+                font: Helvetica;
+            }

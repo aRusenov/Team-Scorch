@@ -6,25 +6,20 @@ html {
 
 body {
     margin: 0;
-    background-image: url("../res/Site_patternNEW.png");
+    background-image: url("../res/Site_pattern_02b.jpg");
     background-repeat: repeat;
 }
 
 /* header */
 header {
     margin: 0;
+	background: linear-gradient(to bottom,#CCC,#000);
 }
 
 div#container {
-    margin: 0 4% 0 4%;
 }
 
 #logo {
-    text-align: center;
-    height: 100px;
-    color: white;
-    width: 600px;
-    text-align: left;
 }
 
 #borderline {

@@ -6,25 +6,39 @@ html {
 
 body {
     margin: 0;
-    background-image: url("../res/Site_pattern_02b.jpg");
+    background-image: url("../res/Site_patternNEW.png");
     background-repeat: repeat;
 }
 
 /* header */
 header {
     margin: 0;
+<<<<<<< HEAD
 	background: linear-gradient(to bottom,#CCC,#000);
+    margin: 0 4% 0 4%;
 }
 
 div#container {
+
+=======
+}
+
+div#container {
+    margin: 0 4% 0 4%;
+>>>>>>> master
 }
 
 #logo {
+    width: 100%;
+<<<<<<< HEAD
+=======
+    height: 510%;
+>>>>>>> master
 }
 
 #borderline {
     height: 35px;
-    margin-top: 0;
+    margin: 0;
     background-color: #FFA31A;
 }
 
@@ -166,12 +180,13 @@ figure {
     float: left;
 }
 
-.profilePicture {
+img.profilePicture {
     width: 350px;
     height: auto;
+    border-radius: 10px;
 }
 
-.profileInfo {
+div.profileInfo {
     overflow: hidden;
     margin: 5px;
     padding: 5px;

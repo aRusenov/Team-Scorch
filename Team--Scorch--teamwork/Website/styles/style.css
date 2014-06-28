@@ -41,6 +41,7 @@ nav ul {
     padding: 0;
     margin: 0;
     background-color: #171715;
+    width: auto;
 }
 
 nav li {
@@ -133,32 +134,37 @@ nav a {
 /* main */
 
 main  {
-    border: solid 1px gray;
-    background-color: #101010;
     margin: 3% 7% 3% 7%;
-    padding: 10px;
     color: white;
 }
 
 section {
-    background-color: #101010;
+    background-color: rgba(16, 16, 16, 0.7);
+    margin: 0;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 h1 {
-    margin-left: 5%;
+    margin: 0 0 0 5%;
     font-size: 2.7rem;
 }
 
 article {
+    padding: 10px;
     border: solid 1px gray;
     border-radius: 2px;
     margin: 2%;
-    width: 95%;
+    width: 90%;
 }
 
-article:hover {
+article.profile:hover {
     background-color: #333333;
     cursor: pointer;
+}
+
+article a {
+    color: #ffffff;
 }
 
 figure {
@@ -207,7 +213,7 @@ div.contact {
     padding: 5px;
     border: none;
     background-color: #ffa31a;
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
     border-radius: 5px;
     font-size: 1.1rem;

@@ -6,34 +6,23 @@ html {
 
 body {
     margin: 0;
-    background-image: url("../res/Site_patternNEW.png");
+    background-image: url("../res/Site_pattern_02b.jpg");
     background-repeat: repeat;
 }
 
 /* header */
 header {
     margin: 0;
-<<<<<<< HEAD
-	background: linear-gradient(to bottom,#CCC,#000);
     margin: 0 4% 0 4%;
 }
 
 div#container {
-
-=======
-}
-
-div#container {
     margin: 0 4% 0 4%;
->>>>>>> master
 }
 
 #logo {
     width: 100%;
-<<<<<<< HEAD
-=======
-    height: 510%;
->>>>>>> master
+    display: block;
 }
 
 #borderline {

@@ -233,15 +233,14 @@ footer {
 }
 
 footer ul {
-    max-width:200px;
-    margin:0;
     padding-left: 32px;
     float:left;
+    display:inline;
 }
     footer ul li{
-    width:auto;
-    line-height:2em;
+    line-height:2.5em;
     list-style-type: none;
+    font-size:1.2em;
     color: #C4C4C4;
 
 }
@@ -258,11 +257,11 @@ footer ul {
             }
 
 #validator-logo {
-    margin-top:25px;
-    margin-right:25px;
+    margin-top:1.3em;
+    margin-right:1.3em;
     float:right;
 }
 
-    #cssImage {
-        margin-left:20px;
-    }
+#cssImage {
+    margin-left:1em;
+}

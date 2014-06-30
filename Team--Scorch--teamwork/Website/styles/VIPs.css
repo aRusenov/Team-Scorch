@@ -230,12 +230,20 @@ footer {
     border-radius: 10px;
     overflow:hidden;
     display:inline-block;
+    position:relative;
+}
+
+footer span {
+    position:absolute;
+    margin-right:1em;
+    color: #C4C4C4;
+    bottom:12px;
+    right:200px;
 }
 
 footer ul {
     padding-left: 32px;
     float:left;
-    display:inline;
 }
     footer ul li{
     line-height:2.5em;

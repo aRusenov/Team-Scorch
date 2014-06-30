@@ -185,25 +185,46 @@ span.tag {
 
 footer {
     width:86%;
-    height:13em;
-    background-color:black;
+    height:auto;
+    background-color: rgba(16, 16, 16, 0.7);
     margin-left:7%;
     margin-right:7%;
-    margin-bottom:3%;
+    border-radius: 10px;
+    overflow:hidden;
+    display:inline-block;
 }
 
 footer ul {
-    padding-top:0.5em;
+    max-width:200px;
+    margin:0;
+    padding-left: 32px;
+    float:left;
 }
-footer ul li{
+    footer ul li{
+    width:auto;
     line-height:2em;
-    list-style-type:square;
+    list-style-type: none;
     color: #C4C4C4;
 
 }
+        footer ul li::before {
+            content: "\2764";
+            color: lightpink;
+        }
 
-footer ul li a {
-    text-decoration: none;
-    color: #C4C4C4;
-    font: Helvetica;
+            footer ul li a {
+                text-decoration: none;
+                color: #C4C4C4;
+                font: Helvetica;
+                margin-left:5px;
+            }
+
+#validator-logo {
+    margin-top:25px;
+    margin-right:25px;
+    float:right;
 }
+
+    #cssImage {
+        margin-left:20px;
+    }

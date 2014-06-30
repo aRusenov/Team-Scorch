@@ -29,6 +29,7 @@ div#container {
     height: 35px;
     margin: 0;
     background-color: #FFA31A;
+    z-index: 1000;
 }
 
 nav {
@@ -47,6 +48,7 @@ nav ul {
 nav li {
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
+    font: 16px/50px bold;
     cursor: pointer;
     display: inline-block;
     position: relative;
@@ -61,7 +63,6 @@ nav ul#main > li:last-of-type {
 
 a.drop:after {
     content: ' \25bc';
-    font-size: 0.85em;
 }
 
 nav li ul {
@@ -85,7 +86,7 @@ nav li li:hover {
     background-color: gray;
 }
 
-nav li:hover {
+nav ul#main > li:hover {
     background-color: #ffa31a;
 }
 
@@ -151,7 +152,6 @@ h1 {
 }
 
 article {
-    padding: 10px;
     border: solid 1px gray;
     border-radius: 2px;
     margin: 2%;
@@ -186,6 +186,7 @@ div.profileInfo {
     margin: 5px;
     padding: 5px;
     color: white;
+    padding: 10px;
 }
 
 .profileInfo > p, .profileInfo ul {

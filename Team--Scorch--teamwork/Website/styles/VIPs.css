@@ -12,8 +12,8 @@ body {
 
 /* header */
 header {
-    margin: 0;
     margin: 0 4% 0 4%;
+    text-align: center;
 }
 
 div#container {
@@ -28,7 +28,7 @@ div#container {
 #borderline {
     height: 35px;
     margin: 0;
-    background-color: #FFA31A;
+    background-color: #9229A4;
     z-index: 1000;
 }
 
@@ -87,7 +87,7 @@ nav li li:hover {
 }
 
 nav ul#main > li:hover {
-    background-color: #ffa31a;
+    background-color: #9229A4;
 }
 
 nav li:hover > a {
@@ -135,7 +135,7 @@ nav a {
 /* main */
 
 main  {
-    margin: 3% 7% 3% 7%;
+    margin: 3% 10% 3% 10%;
     color: white;
 }
 

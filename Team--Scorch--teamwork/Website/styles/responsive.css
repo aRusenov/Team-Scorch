@@ -6,43 +6,37 @@
         float: none;
     }
 
-    .profilePicture {
-        width: 90%;
+    main .profilePicture {
+        width: 100%;
+        text-align: center;
+    }
+
+    main article h1 {
+        text-align: center;
+    }
+
+    main .profileInfo {
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 600px) {
 
-    nav ul li {
+    nav ul#main > li {
         font-size: 0.95rem;
         width: 33%;
         float: none;
-        text-align: left;
     }
 
     nav > ul  li  a {
         padding: 0 5px 0 5px !important;
-        float: left;
     }
-
-    nav li ul li a {
-        width: 150px;
-    }
-
-    main .profilePicture {
-        width: 90%;
-    }
-
 }
 
 @media screen and (max-width: 530px) {
 
     main article figure {
         float: none;
-    }
-
-    main .profilePicture {
-        width: 90%;
     }
 }
 
@@ -55,10 +49,6 @@
     nav ul li a {
         text-align: center;
         padding-right: 0 !important;
-    }
-
-    main .profilePicture {
-        width: 90%;
     }
 
     main {

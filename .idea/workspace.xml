@@ -22,80 +22,38 @@
     <favorites_list name="Team-Scorch" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51911765">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6241497" vertical-offset="3679" max-vertical-offset="4267">
-                  <caret line="238" column="8" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-10.0" vertical-offset="267" max-vertical-offset="1071">
-                  <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Site_pattern_02b.jpg" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02b.jpg">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Site_pattern_02.jpg" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02.jpg">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="VIPs.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="2176">
-                  <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="responsive.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1343">
-                  <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="VIPs.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2176">
-                  <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="staff.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/staff.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.923077" vertical-offset="1182" max-vertical-offset="1853">
+              <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1173">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="staff.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/staff.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84522" vertical-offset="3574" max-vertical-offset="4233">
+              <caret line="243" column="1" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -108,18 +66,25 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css" />
-        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html" />
         <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/VIPs.css" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/services.css" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/Services.html" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/index.css" />
         <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/index.html" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/vips.html" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/staff.html" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css" />
+        <option value="$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/staff.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1376" />
-    <option name="height" value="744" />
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -208,28 +173,6 @@
               <option name="myItemId" value="Team--Scorch--teamwork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Team-Scorch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Team-Scorch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Team--Scorch--teamwork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -239,13 +182,23 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rusenov\Documents\GitHub\Team-Scorch\Team--Scorch--teamwork\Website\res" />
       <recent name="C:\Users\Jamal\Documents\GitHub\Team-Scorch\Team--Scorch--teamwork\Website\res" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -256,12 +209,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -269,16 +224,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -290,6 +235,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8eeff457-4710-435d-a149-5182b6e65b7f" name="Default" comment="" />
@@ -299,7 +247,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-4" y="-4" width="1288" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -314,11 +262,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -343,9 +291,53 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2652" max-vertical-offset="2754">
+          <caret line="156" column="1" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+          <folding>
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1088">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="680">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="4267">
           <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding />
+          <folding>
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -357,28 +349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1343">
           <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="2176">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -403,7 +377,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2380" max-vertical-offset="3927">
           <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -419,48 +403,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4199">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4658" max-vertical-offset="4760">
+          <caret line="274" column="1" selection-start-line="274" selection-start-column="1" selection-end-line="274" selection-end-column="1" />
+          <folding>
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1404220414759" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/VIPs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5872534" vertical-offset="123" max-vertical-offset="4760">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9468892" vertical-offset="3455" max-vertical-offset="4114">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="196" max-vertical-offset="1275">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/vips.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5483871" vertical-offset="697" max-vertical-offset="2363">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/staff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.923077" vertical-offset="1182" max-vertical-offset="1853">
+          <caret line="100" column="20" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1343">
-          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1173">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/VIPs.html">
+    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/staff.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="2176">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/res/Site_pattern_02b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="267" max-vertical-offset="1071">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team--Scorch--teamwork/Website/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6241497" vertical-offset="3679" max-vertical-offset="4267">
-          <caret line="238" column="8" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.84522" vertical-offset="3574" max-vertical-offset="4233">
+          <caret line="243" column="1" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -138,9 +138,13 @@ main  {
     margin: 3% 10% 3% 10%;
     color: white;
 }
+section image{
+    width: 100%;
+}
+
 
 section {
-    background-color: rgba(16, 16, 16, 0.7);
+    background-position: center;
     margin: 0;
     padding: 10px;
     border-radius: 10px;

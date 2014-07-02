@@ -1,7 +1,7 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head lang="en">
-    <link rel="stylesheet" href="styles/index.css"/>
+    <link rel="stylesheet" href="styles/contacts.css"/>
     <link rel="stylesheet" href="styles/responsive.css" media="screen and (max-width: 900px)"/>
     <meta charset="UTF-8">
     <title></title>
@@ -17,14 +17,14 @@
                     <li><a href="index.html">Начало</a></li>
                     <li><a href="#" class="drop">VIP Зона</a>
                         <ul>
-                            <li><a href="vip-girls.html">VIP Girls</a></li>
-                            <li><a href="vip-boys.html">VIP Boys</a></li>
+                            <li><a href="vips.html">VIP Girls</a></li>
+                            <li><a href="#">VIP Boys</a></li>
                         </ul>
                     </li>
                     <li><a href="staff.html">Екип</a>
                     </li>
                     <li><a href="#">Магазин</a></li>
-                    <li><a href="contacts.html">Контакти</a></li>
+                    <li><a href="#">Контакти</a></li>
                 </ul>
             </nav>
         </div>
@@ -34,12 +34,15 @@
     <!-- main -->
     <main>
         <section>
-            <h1>Get(ni).me</h1>
+            <h1>Contact us</h1>
             <article>
-                <h3><span class="tag">Welcome to the official <a href="http://www.softuni.bg" target="_blank">SoftUni</a> hookup hub!</span></h3>
-                <p>Programming is quite a tiresome job and the Software University team perfectly understands that. This is why they created this place for students like you who are looking for fun!</p>
-                <input type="button" value="MEET PEOPLE"/>
-                <input type="button" value="" />
+                <form>
+                    <input type="text" placeholder="Title" required="required">
+                    <textarea placeholder="Your request"></textarea>
+                    <input type="email" required="required" placeholder="E-mail">
+                    <input type="submit" value="Send">
+                    
+                </form>
             </article>
         </section>
     </main>

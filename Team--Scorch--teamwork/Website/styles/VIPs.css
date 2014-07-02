@@ -141,7 +141,6 @@ main  {
 
 section {
     background-color: rgba(16, 16, 16, 0.7);
-    margin: 0;
     padding: 10px;
     border-radius: 10px;
 }
@@ -156,6 +155,7 @@ article {
     border-radius: 2px;
     margin: 2%;
     width: 90%;
+    padding: 5px;
 }
 
 article.profile:hover {
@@ -186,11 +186,12 @@ div.profileInfo {
     margin: 5px;
     padding: 5px;
     color: white;
-    padding: 10px;
+    max-width: 100%;
 }
 
 .profileInfo > p, .profileInfo ul {
     overflow: hidden;
+    word-wrap: break-word;
 }
 
 .profileInfo > ul {
@@ -213,12 +214,17 @@ div.contact {
     display: inline-block;
     padding: 5px;
     border: none;
-    background-color: #ffa31a;
+    background-color: #9229A4;
     color: #000000;
     font-weight: bold;
     border-radius: 5px;
     font-size: 1.1rem;
     margin: 5px 8px;
+}
+
+section#boys {
+    text-align: center;
+    font-size: 0.7rem;
 }
 
 footer {
@@ -235,7 +241,7 @@ footer {
 
 footer span {
     position:absolute;
-    margin-right:1em;
+    margin: 1em;
     color: #C4C4C4;
     bottom:12px;
     right:200px;
@@ -245,29 +251,34 @@ footer ul {
     padding-left: 32px;
     float:left;
 }
-    footer ul li{
+footer ul li{
     line-height:2.5em;
     list-style-type: none;
     font-size:1.2em;
     color: #C4C4C4;
 
 }
-        footer ul li::before {
-            content: "\2764";
-            color: lightpink;
-        }
+footer ul li::before {
+    content: "\2764";
+    color: lightpink;
+}
 
-            footer ul li a {
-                text-decoration: none;
-                color: #C4C4C4;
-                font: Helvetica;
-                margin-left:5px;
-            }
+footer ul li a {
+    text-decoration: none;
+    color: #C4C4C4;
+    font: Helvetica;
+    margin-left:5px;
+}
 
 #validator-logo {
     margin-top:1.3em;
     margin-right:1.3em;
     float:right;
+}
+
+#validator-logo img {
+    width: 80px;
+    height: 80px;
 }
 
 #cssImage {

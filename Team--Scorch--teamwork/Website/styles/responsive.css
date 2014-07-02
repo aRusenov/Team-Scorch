@@ -15,8 +15,8 @@
         text-align: center;
     }
 
-    main .profileInfo {
-        width: 100%;
+    main article figure {
+        float: none;
     }
 }
 
@@ -35,8 +35,13 @@
 
 @media screen and (max-width: 530px) {
 
-    main article figure {
-        float: none;
+    #validator-logo img {
+        width: 40px;
+        height: 40px;
+    }
+
+    footer span {
+        display: none;
     }
 }
 
@@ -52,7 +57,7 @@
     }
 
     main {
-        margin: 2% 1% 0 1%;
+        margin: 2% 1% 2% 1%;
     }
 }
 

@@ -8,6 +8,7 @@ body {
     margin: 0;
     background-image: url("../res/Site_pattern_02b.jpg");
     background-repeat: repeat;
+    background-attachment: fixed;
 }
 
 /* header */
@@ -169,10 +170,12 @@ article {
     display: inline-block;
     float: left;
     width: 30%;
+    word-wrap: break-word;
 }
 
 .profilePicture img {
     max-width: 100%;
+
 }
 
 .profileInfo {
@@ -202,10 +205,10 @@ footer {
     position:relative;
 }
 
-footer span {
+footer div#rights {
     position:absolute;
     margin: 0 1em;
-    color: #C4C4C4;
+    color: #ffffff;
     bottom:12px;
     right:200px;
 }
